@@ -1,0 +1,25 @@
+.infor{
+    width:100%;
+    background:#fff;
+    margin-bottom:10px;
+    /*margin-top:6.0rem;*/
+}
+.infor>div{
+    width:90%;
+    margin:0 auto;
+    padding-top:10px;
+}
+.infor>div p:nth-of-type(3) img{
+    width:100%;
+    height:100%;
+}
+.infor>div p:nth-of-type(1){
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+}
+.infor>div p:nth-of-type(1) img{
+    width:100%;
+    height:100%;
+    border-radius: 50%;
+}
